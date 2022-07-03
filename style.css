@@ -1,0 +1,26 @@
+font-face{
+    font-family: bebas;
+    src: Fonts/Bebas-Regular.ttf;
+}
+*{
+    background-color: bisque;
+    margin: 0%;
+    padding: 0;
+    font-family: bebas;
+
+}
+.blog h1{
+    background-color: azure;
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+   
+}
+.blog h3{
+    background-color: white;
+    margin: 0px 50px 50px 50px;
+    text-align: justify;
+    padding: 20px;
+}
